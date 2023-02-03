@@ -43,7 +43,7 @@ import java.util.Map;
 
 
 /** Hjälpklass för att skapa en KAFKA CONSUMER
- * @author Mikael med en del hjälp....
+ * @author Mikael "Lucky Lenny" Lennehag med en del hjälp....
  * @version 0.1
  * @since 0.1
 */
